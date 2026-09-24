@@ -47,9 +47,9 @@ Date: 2026-09-17
 
 ## 4. Ambiguous headlines (at least two, with explanation)
 
-- | 41312 | 9 Žvaigždė pasirašė daugiametę sutartį su klubu (Paris) | Sportas | Taip, nežinome ar tai kalbama apie sportininką žvaigždę, taip pat neaišku ar ši tema aktuali Paryžiaus gyventojams ar pats klubas randasi Paryžiuje |
+| 41312 | 9 Žvaigždė pasirašė daugiametę sutartį su klubu (Paris) | Sportas | Taip, nežinome ar tai kalbama apie sportininką žvaigždę, taip pat neaišku ar ši tema aktuali Paryžiaus gyventojams ar pats klubas randasi Paryžiuje |
 
-- | 479 | 14 Startuolis pritraukė 50 mln. USD DI platformos plėtrai | Tech, verslas | Taip, verslas/finansai maišomi su tech |
+| 479 | 14 Startuolis pritraukė 50 mln. USD DI platformos plėtrai | Tech, verslas | Taip, verslas/finansai maišomi su tech |
 
 
 ## 5. Predicted modelling problems (at least two, with concrete examples)
