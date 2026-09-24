@@ -4,10 +4,10 @@ SEED = 42
 SAMPLE_SIZE = 1500
 
 df = pd.read_csv("Lab01_Materials/headlines_train.csv")
-df["doc_id"] = df.index  # stable id = original row number in the raw CSV
+df["doc_id"] = df.index
 
 df["text"] = df["text"].str.strip()
-df = df[df["text"].notna() & df["text"].ne("")]
+df = df[df["text"].notna() & df["text"].ne("")] # Paliekam eilutes, kuriose nera tuscio teksto.
 n_after_empty_removed = len(df)
 
 df = df.drop_duplicates(subset="text")
